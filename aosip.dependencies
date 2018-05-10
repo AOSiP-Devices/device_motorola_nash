@@ -1,14 +1,26 @@
 [
   {
-    "repository": "android_kernel_motorola_msm8998",
-    "target_path": "kernel/motorola/msm8998"
+    "repository": "InvictrixRom-Devices/kernel_motorola_nash",
+    "target_path": "kernel/motorola/nash",
+    "branch": "inv-8.1",
+    "remote": "github"
   },
   {
-    "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "lineage-15.1",
+    "remote": "github"
   },
   {
-    "repository": "android_external_bson",
-    "target_path": "external/bson"
+    "repository": "LineageOs/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "lineage-15.1",
+    "remote": "github"
+  },
+  {
+    "repository": "DirtyUnicorns/android_vendor_pixelgapps",
+    "target_path": "vendor/pixelgapps",
+    "branch": "o8x",
+    "remote": "github"
   }
 ]
